@@ -1,0 +1,28 @@
+# 🪔 Diwali Sales Analysis
+
+This project analyzes Diwali sales data to uncover customer purchasing behavior, popular product categories, and revenue trends.  
+The analysis is done using **Python, Pandas, NumPy, Matplotlib, and Seaborn** in Jupyter Notebook.
+
+---
+
+## 📊 Dataset
+- **File:** `diwali_sales_data.csv`
+- **Details:** Customer demographics, purchase amounts, product categories, and city tiers.
+
+---
+
+## 🔍 Key Insights
+- **Age Group 26–35** has the highest sales.
+- **Female customers** purchased more than male customers.
+- **Electronics & Clothing** are the most popular categories.
+- **Tier 1 cities** generate the most revenue.
+
+---
+
+## 🛠️ Tools Used
+- Python 3.x
+ Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
